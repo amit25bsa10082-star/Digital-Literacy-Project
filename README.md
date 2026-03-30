@@ -9,7 +9,7 @@
 |-------|---------|
 | **Name** | Amit Kumar Pandey |
 | **Registration No.** | 25BSA10082 |
-| **Branch** | CSE (AI & ML) |
+| **Branch** | Cloud computing |
 | **Year** | First Year B.Tech |
 | **Course Code** | CSE0001 |
 | **Course Title** | Digital Literacy |
